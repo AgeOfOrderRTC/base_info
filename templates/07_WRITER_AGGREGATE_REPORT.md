@@ -11,7 +11,7 @@
 | SOUL-WHISPERER    |        | 1.0 |                  |
 | GRIM-SKEPTIC      |        | 1.0 |                  |
 | GAME-ENTHUSIAST   |        | 0.9 |                  |
-| CLICHE-EXPERT     |        | 0.8 |                  |
+
 | MYTH-MAKER        |        | 1.0 |                  |
 | DEVIL'S-ADVOCATE  |        | 1.0 |                  |
 | **Средняя (простая)** | **[ ]** |  —  | — |

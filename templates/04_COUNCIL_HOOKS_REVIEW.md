@@ -3,7 +3,7 @@
 **Как заполнять:** Для КАЖДОГО хука — секция на КАЖДУЮ роль. Оценка 0–10. Коротко и по делу, но с конкретикой.
 
 ## Роли Совета
-CANON-AUDITOR, SOUL-WHISPERER, GRIM-SKEPTIC, NARRATIVE-WEAVER, GAME-ENTHUSIAST, CLICHE-EXPERT, WORLD-ARCHITECT, MYTH-MAKER, DEVIL'S-ADVOCATE
+CANON-AUDITOR, SOUL-WHISPERER, GRIM-SKEPTIC, NARRATIVE-WEAVER, GAME-ENTHUSIAST, WORLD-ARCHITECT, MYTH-MAKER, DEVIL'S-ADVOCATE
 
 ---
 
@@ -44,7 +44,7 @@ CANON-AUDITOR, SOUL-WHISPERER, GRIM-SKEPTIC, NARRATIVE-WEAVER, GAME-ENTHUSIAST, 
 **Риски:**  
 **Рекомендации:**  
 
-### CLICHE-EXPERT — Оценка: [ ] /10
+
 **Кратко по сути:**  
 **Что сработало:**  
 **Что не сработало:**  

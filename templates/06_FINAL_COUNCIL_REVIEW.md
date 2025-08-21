@@ -11,7 +11,7 @@
 | SOUL-WHISPERER    |               |
 | GRIM-SKEPTIC      |               |
 | GAME-ENTHUSIAST   |               |
-| CLICHE-EXPERT     |               |
+
 | MYTH-MAKER        |               |
 | DEVIL'S-ADVOCATE  |               |
 | LORE-WRITER (самооценка) |       |
@@ -53,7 +53,7 @@
 ## GAME-ENTHUSIAST — Оценка: [ ] /10
 … (повторить)
 
-## CLICHE-EXPERT — Оценка: [ ] /10
+
 … (повторить)
 
 ## MYTH-MAKER — Оценка: [ ] /10
